@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Toolbar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-11 11:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: cristianofino.net <cristiano.fino@bbs.olografix.org>\n"
+"Language-Team: cristianofino.net\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../cf_comment_toolbar.php:35
+msgid "Reply"
+msgstr "Rispondi"
+
+#: ../cf_comment_toolbar.php:36
+msgid "Quote"
+msgstr "Quota"
+
+#: ../cf_comment_toolbar.php:37
+msgid "wrote"
+msgstr "ha scritto"
+
+#: ../cf_comment_toolbar.php:143
+msgid "Options saved."
+msgstr "Opzioni salvate"
+
+#: ../cf_comment_toolbar.php:148
+msgid "Comment Toolbar Plugin Options"
+msgstr "Opzioni di configurazione Comment Toolbar Plugin"
+
+#: ../cf_comment_toolbar.php:156
+msgid "Label of 'Reply' button (or link):"
+msgstr "Testo del pulsante (o link) 'Reply':"
+
+#: ../cf_comment_toolbar.php:160
+#: ../cf_comment_toolbar.php:169
+msgid "(to not display, leave blank)"
+msgstr "Per non mostrare il pulsante/link, lasciare il campo vuoto"
+
+#: ../cf_comment_toolbar.php:165
+msgid "Label of 'Quote' button (or link):"
+msgstr "Test del pulsante (o link) 'Quote':"
+
+#: ../cf_comment_toolbar.php:174
+msgid "Text message of 'Quote' action:"
+msgstr "Testo dell'azione associata all'operazione di 'Quote':"
+
+#: ../cf_comment_toolbar.php:182
+msgid "Characters of separation between the buttons (or links):"
+msgstr "Carattere/i di separazione tra i pulsanti (o link):"
+
+#: ../cf_comment_toolbar.php:186
+msgid "(you can insert HTML code also)"
+msgstr "E' possibile inserire anche codice HTML"
+
+#: ../cf_comment_toolbar.php:191
+msgid "Enclose commentator's name in html tag &lt;b&gt;...&lt;/b&gt; :"
+msgstr "Evidenzia il nome del commentatore, a cui si risponde o si quota il testo, in grassetto: "
+
+#: ../cf_comment_toolbar.php:195
+#: ../cf_comment_toolbar.php:206
+#: ../cf_comment_toolbar.php:263
+#: ../cf_comment_toolbar.php:275
+msgid "No"
+msgstr "No"
+
+#: ../cf_comment_toolbar.php:196
+#: ../cf_comment_toolbar.php:207
+#: ../cf_comment_toolbar.php:264
+#: ../cf_comment_toolbar.php:276
+msgid "Yes"
+msgstr "Si"
+
+#: ../cf_comment_toolbar.php:202
+msgid "Add a link to his commentary on the name of the commentator :"
+msgstr "Aggiungi un collegamento sul nome dell'autore al commento al quale si sta rispondendo (o quotando il testo):"
+
+#: ../cf_comment_toolbar.php:213
+msgid "Text to insert in anchor link, before comment ID :"
+msgstr "Prefisso da anteporre all'ID del commento all'interno delle ancore:"
+
+#: ../cf_comment_toolbar.php:217
+msgid "(Insert <b>co_</b> if you do not know the format's links to comments of your theme)"
+msgstr "Digitare <b>co_</b> se non si conosce il formato dei permalink ai commenti del proprio tema"
+
+#: ../cf_comment_toolbar.php:222
+msgid "Toolbar style:"
+msgstr "Stile della toolbar:"
+
+#: ../cf_comment_toolbar.php:226
+msgid "Buttons"
+msgstr "Pulsanti"
+
+#: ../cf_comment_toolbar.php:227
+msgid "Links"
+msgstr "Link"
+
+#: ../cf_comment_toolbar.php:228
+msgid "Images"
+msgstr "Immagini grafiche"
+
+#: ../cf_comment_toolbar.php:230
+msgid "To customize the graphic appearance of image buttons, replace files 'first.png','previous.png', 'next.png', 'last.png', 'reply.png','quote.png', in the plugin's <b>images</b> folder using the same names for files"
+msgstr "Per personalizzare l'aspetto delle immagini grafiche associate ai pulsanti, sostituire i file 'first.png','previous.png', 'next.png', 'last.png', 'reply.png','quote.png' contenuti nella cartella <b>images</b> del plugin, utilizzando gli stessi nomi e le stesse estensioni"
+
+#: ../cf_comment_toolbar.php:235
+msgid "Toolbar position:"
+msgstr "Posizione della toolbar:"
+
+#: ../cf_comment_toolbar.php:239
+msgid "Top of comment"
+msgstr "In testa al commento"
+
+#: ../cf_comment_toolbar.php:240
+msgid "Bottom of comment"
+msgstr "In fondo al commento"
+
+#: ../cf_comment_toolbar.php:246
+msgid "Toolbar alignment:"
+msgstr "Allineamento della toolbar:"
+
+#: ../cf_comment_toolbar.php:250
+msgid "Left"
+msgstr "Sinistra"
+
+#: ../cf_comment_toolbar.php:251
+msgid "Right"
+msgstr "Destra"
+
+#: ../cf_comment_toolbar.php:252
+msgid "Center"
+msgstr "Centro"
+
+#: ../cf_comment_toolbar.php:253
+msgid "CSS style settings"
+msgstr "Come da impostazioni CSS"
+
+#: ../cf_comment_toolbar.php:259
+msgid "Show buttons to navigate on your comments :"
+msgstr "Mostra pulsanti di navigazione tra i commenti:"
+
+#: ../cf_comment_toolbar.php:266
+#: ../cf_comment_toolbar.php:278
+msgid "This feature is automatically disabled when using the paging of the comments"
+msgstr "Questa funzionalità è automaticamente disabilitata se si usa la paginazione dei commenti"
+
+#: ../cf_comment_toolbar.php:271
+msgid "Enable smooth scrolling :"
+msgstr "Abilita scorrimento morbido tra le ancore:"
+
+#: ../cf_comment_toolbar.php:283
+msgid "Update Options"
+msgstr "Aggiorna configurazione"
+
+#: ../cf_comment_toolbar.php:327
+#: ../cf_comment_toolbar.php:352
+msgid "Go to comment of this author"
+msgstr "Vai al commento di questo autore"
+
